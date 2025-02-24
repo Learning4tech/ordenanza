@@ -1,0 +1,110 @@
+[
+    {
+        "question": "¿Cuáles son los órganos que componen la Junta de Comunidades de Castilla-La Mancha?",
+        "options": [
+            "Las Cortes de Castilla-La Mancha, el Presidente y el Consejo de Gobierno. Ley 7/1985.",
+            "Los órganos de la Unión Europea y el Consejo de Ministros.",
+            "Las Cortes de Aragón y el Consejo de Ministros."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "¿Qué funciones desempeña el Consejo de Gobierno?",
+        "options": [
+            "Dirigir la política regional, la administración autonómica y ejercer la función ejecutiva y reglamentaria. Ley 7/1985.",
+            "Desempeñar la política internacional y la administración descentralizada.",
+            "Desempeñar la política local y la administración centralizada."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "¿Cómo se estructuran las Cortes Regionales de Castilla-La Mancha?",
+        "options": [
+            "Se componen de los diputados elegidos por sufragio universal, distribuidos en grupos parlamentarios y con órganos como la Mesa y la Junta de Portavoces. Ley 7/1985.",
+            "Los diputados elegidos por designación directa, distribuidos en regiones.",
+            "Los diputados elegidos por sorteo, distribuidos en provincias."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "¿Cuál es la composición de la Corporación Municipal de Guadalajara?",
+        "options": [
+            "El Alcalde, los Tenientes de Alcalde y los Concejales. Ley 7/1985.",
+            "La composición del Congreso, los Diputados de designación autonómica y los Senadores electos.",
+            "La composición del Parlamento, los Diputados de designación regional y los Senadores vitalicios."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "¿Cuáles son los órganos necesarios en los municipios de gran población según la Ley 7/1985?",
+        "options": [
+            "El Pleno, el Alcalde, los Tenientes de Alcalde, la Junta de Gobierno Local y otros órganos complementarios según lo establecido en la Ley 7/1985.",
+            "Los órganos de la Comunidad Autónoma, el Presidente y los Consejeros.",
+            "Los órganos del Gobierno Central, el Presidente y los Ministros."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "¿Qué Ley modificó la Ley Reguladora de las Bases del Régimen Local?",
+        "options": [
+            "La Ley 57/2003, de medidas para la modernización del gobierno local. Ley 57/2003.",
+            "La Ley 3/2001, de medidas para la descentralización del gobierno local.",
+            "La Ley 2/2004, de medidas para la regionalización del gobierno local."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "¿Cuáles son los principios de actuación de la Administración Pública?",
+        "options": [
+            "Eficacia, jerarquía, descentralización, desconcentración, coordinación y servicio a los ciudadanos. Título VIII de la Constitución Española.",
+            "Los principios de desigualdad, anarquía, descentralización, concentración y descoordinación.",
+            "Los principios de desigualdad, jerarquía, centralización, desconcentración y descoordinación."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "¿En qué título de la Constitución se regula la Administración Local?",
+        "options": [
+            "En el Título VIII de la Constitución Española. Título VIII de la Constitución Española.",
+            "El Título VI de la Constitución Española.",
+            "El Título IX de la Constitución Española."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "¿Cuál es la entidad local básica de la Organización territorial del Estado?",
+        "options": [
+            "El municipio. Título VIII de la Constitución Española.",
+            "La provincia. Título VII de la Constitución Española.",
+            "La comunidad autónoma. Título VIII de la Constitución Española."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "¿Cómo se eligen los concejales de los ayuntamientos?",
+        "options": [
+            "Por sufragio universal, libre, igual, directo y secreto. Título VIII de la Constitución Española.",
+            "Los ciudadanos, por sorteo universal, libre, igual, indirecto y público.",
+            "Los funcionarios, por sufragio restringido, libre, desigual, directo y secreto."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "¿Quién nombra a los Tenientes de Alcalde?",
+        "options": [
+            "El Alcalde. Ley 7/1985.",
+            "Los Alcaldes. Ley 5/1990.",
+            "Los Gobernadores. Ley 3/1988."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "¿Cuál es el plazo para interponer un recurso de reposición contra un acto administrativo?",
+        "options": [
+            "Un mes desde la notificación del acto administrativo. Ley 7/1985.",
+            "El pleno para dos años desde la notificación del acto administrativo.",
+            "El pleno para seis meses desde la notificación del acto administrativo."
+        ],
+        "correctAnswerIndex": 0
+    }
+]
